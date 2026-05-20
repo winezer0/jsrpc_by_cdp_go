@@ -1,0 +1,1 @@
+window.sign = p["a"]
